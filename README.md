@@ -1,4 +1,4 @@
-<img align="right" src="https://user-images.githubusercontent.com/60144801/142511466-0920e378-7b6d-4a8d-afff-d98ba1a1bb06.png" height=420px>
+<img align="right" src="https://user-images.githubusercontent.com/60144801/142251955-a9cae056-f3e7-44c8-85da-87a5b822f6b5.png" height=420px>
 
 # Tic Tac Toe
 
